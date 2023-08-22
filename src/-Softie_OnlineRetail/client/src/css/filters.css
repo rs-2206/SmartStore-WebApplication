@@ -1,0 +1,70 @@
+.filters-container {
+  width: 260px;
+  padding: 10px;
+  position: sticky;
+  top: 70px;
+  border: 1px solid #ccc;
+  float: left;
+  margin-right: 20px;
+  height: 601px;
+  background-color: #d0f9e9; 
+  position: fixed;
+  box-shadow: 0 10px 10px rgba(54, 9, 217, 0.2);
+}
+
+h4 {
+  margin-top: 0;
+}
+
+.filters-container h4:first-child {
+  border-bottom: 1px solid #818080;
+  padding-bottom: 10px;
+}
+
+.price-range-container h6:first-child {
+  border-bottom: 1px solid #626161;
+  padding-bottom: 10px;
+}
+
+.category-container {
+  margin-bottom: 20px;
+}
+
+.category-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.category-list li {
+  margin-bottom: 10px;
+}
+
+.category-list li span {
+  display: block;
+  padding: 5px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.category-list li span:hover {
+  background-color: #a8d7c6;
+}
+
+.price-range-container {
+  margin-bottom: 20px;
+}
+
+.price-range-slider {
+  margin-bottom: 10px;
+}
+
+.price-range-slider input[type=range] {
+  width: 100%;
+  margin: 0;
+}
+
+.price-range-display p {
+  margin: 0;
+}
+
