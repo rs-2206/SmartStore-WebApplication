@@ -36,7 +36,7 @@ The following Features will be provided by our website: -
 
 •	User can view the total summary of the order, total cost, and cost of each product.
 
-•	He can chode the payment method and place an order.
+•	He can chose the payment method and place an order.
 
 # Add to Wishlist
 
