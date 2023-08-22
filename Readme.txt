@@ -1,13 +1,3 @@
-Group G5:
-group members:
-Lashyanth 2020csb1083
-Gopagoni sreya 2020csb1087
-Jyoti Dhiman 2020csb1092
-Vishnu M.N.S.M.S 2020csb1097
-Tanish Goyal 2020csb1133
-
-
-
 SmartStore
 
 SmartStore is an e-commerce Online Retail Management website built using React, Node, Express and PostgreSQL. It allows users to browse products and buy them online.
